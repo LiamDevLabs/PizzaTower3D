@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: 9f5886353c6bc5242b055ea71598be9d
+  - enabled: 1
+    path: Assets/Scenes/Lobby.unity
+    guid: 05b8ce7ffe2e83342b5e9bcadee95458
+  - enabled: 1
+    path: Assets/Scenes/TowerLobby.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/TimesUp.unity
+    guid: 1a456702889ae5842beffc15370fdbd6
+  - enabled: 1
+    path: Assets/Scenes/ScoreScene.unity
+    guid: 4dcf0aaccc06adf4db37d2f5a86d16bc
+  - enabled: 1
+    path: Assets/Scenes/LevelDemo1.unity
+    guid: 5ecb2de2d051d6141ad6bc8e54a8ea9e
+  - enabled: 1
+    path: Assets/Scenes/Exterior.unity
+    guid: fd5d4a920094f60458928451931d74ef
+  - enabled: 1
+    path: Assets/Scenes/TemplateLevel.unity
+    guid: 5a52f46bee13e8a4d849098b6634ca4e
+  - enabled: 1
+    path: Assets/Scenes/LevelJohnGutter.unity
+    guid: cd577ecd40083d441a953a6c01bf0143
+  - enabled: 1
+    path: Assets/Scenes/LevelTutorial.unity
+    guid: 68b238f52d566b243af04b39ed14ad3b
+  - enabled: 1
+    path: Assets/Scenes/NoiseBoss.unity
+    guid: f4226270f9ee5694787be7dceeb05a15
+  - enabled: 1
+    path: Assets/Scenes/Test/SampleScene1.unity
+    guid: a8bfb01ddb1bebd41ae8c30a26b2bdb9
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 2db8fd4eeeb92a042b11944df0f0ece4, type: 2}

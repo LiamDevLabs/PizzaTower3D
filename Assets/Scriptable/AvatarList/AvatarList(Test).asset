@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4fee1a5c0c09f146a49e09822eef6a5, type: 3}
+  m_Name: AvatarList(Test)
+  m_EditorClassIdentifier: 
+  <AvatarList>k__BackingField:
+  - <Name>k__BackingField: More Bigger Peppino
+    <Icon>k__BackingField: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+    <LobbyAvatar>k__BackingField: {fileID: 7546917830356799643, guid: 4b2a006295de7ad48b8a9617c36d8f71, type: 3}
+    characterPrefab: {fileID: 213436538851751133, guid: 350b3fbc7f300f94bbd059809ef62809, type: 3}
+  - <Name>k__BackingField: Bigger Peppino
+    <Icon>k__BackingField: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+    <LobbyAvatar>k__BackingField: {fileID: 7546917830356799643, guid: 798e291972d903b4599780a6b3b4686a, type: 3}
+    characterPrefab: {fileID: 213436538851751133, guid: a2624d5b0d39a0545841800d97fc73ba, type: 3}
+  - <Name>k__BackingField: Peppino
+    <Icon>k__BackingField: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+    <LobbyAvatar>k__BackingField: {fileID: 7546917830356799643, guid: 9d299583641f1f042be1213be694dd55, type: 3}
+    characterPrefab: {fileID: 213436538851751133, guid: 9e1d256a1dc1560488cba7521e559cd1, type: 3}

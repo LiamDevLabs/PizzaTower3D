@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79c0b4e64856d3248ac52849cf719f52, type: 3}
+  m_Name: PeppinoHealth
+  m_EditorClassIdentifier: 
+  sprites:
+  - {fileID: 1193069401, guid: 9f8e9164889231e439e44c27dc4bcfd9, type: 3}
+  - {fileID: 1585815085, guid: 9f8e9164889231e439e44c27dc4bcfd9, type: 3}
+  - {fileID: 965464860, guid: 9f8e9164889231e439e44c27dc4bcfd9, type: 3}
+  - {fileID: -1165368109, guid: 9f8e9164889231e439e44c27dc4bcfd9, type: 3}
+  - {fileID: 366861470, guid: 9f8e9164889231e439e44c27dc4bcfd9, type: 3}
+  - {fileID: 722305459, guid: 9f8e9164889231e439e44c27dc4bcfd9, type: 3}
+  - {fileID: 275538102, guid: 9f8e9164889231e439e44c27dc4bcfd9, type: 3}
+  - {fileID: -253750219, guid: 9f8e9164889231e439e44c27dc4bcfd9, type: 3}
+  - {fileID: -1788877198, guid: 9f8e9164889231e439e44c27dc4bcfd9, type: 3}
+  - {fileID: 1574748318, guid: 9f8e9164889231e439e44c27dc4bcfd9, type: 3}
+  - {fileID: 84196682, guid: 9f8e9164889231e439e44c27dc4bcfd9, type: 3}
+  - {fileID: 878065176, guid: 9f8e9164889231e439e44c27dc4bcfd9, type: 3}
+  - {fileID: 1159550981, guid: 9f8e9164889231e439e44c27dc4bcfd9, type: 3}
+  - {fileID: -422706046, guid: 9f8e9164889231e439e44c27dc4bcfd9, type: 3}
+  - {fileID: 1730229726, guid: 9f8e9164889231e439e44c27dc4bcfd9, type: 3}
+  - {fileID: 426960675, guid: 9f8e9164889231e439e44c27dc4bcfd9, type: 3}

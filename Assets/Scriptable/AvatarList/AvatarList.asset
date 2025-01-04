@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4fee1a5c0c09f146a49e09822eef6a5, type: 3}
+  m_Name: AvatarList
+  m_EditorClassIdentifier: 
+  <AvatarList>k__BackingField:
+  - <Name>k__BackingField: Peppino
+    <Icon>k__BackingField: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+    <LobbyAvatar>k__BackingField: {fileID: 223374222356634595, guid: d16d784df537ca544bc677ac38d54643, type: 3}
+    characterPrefab: {fileID: 213436538851751133, guid: 350b3fbc7f300f94bbd059809ef62809, type: 3}
