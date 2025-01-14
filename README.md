@@ -25,7 +25,7 @@ This project is a non-commercial fan game created out of admiration for the orig
 
 ## How to Use
 1. Clone or download this repository.
-2. Open the project in Unity (compatible with Unity version 2021.3.23f1).
+2. Open the project in Unity (compatible with [Unity](https://unity.com/releases/editor/archive) version 2021.3.23f1).
 
 ## Support
 If you enjoyed this fan game, please support the original creators and contributors:
