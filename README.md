@@ -24,8 +24,10 @@ This project is a non-commercial fan game created out of admiration for the orig
 - I encourage everyone interested to support the original creators by purchasing the game and/or supporting their projects directly.
 
 ## How to Use
+1. Download [Unity Hub](https://unity.com/download)
+2. Install Unity (compatible with Unity [version](https://unity.com/releases/editor/archive) 2021.3.23f1).
 1. Clone or download this repository.
-2. Open the project in Unity (compatible with [Unity](https://unity.com/releases/editor/archive) version 2021.3.23f1).
+2. Open the project in Unity.
 
 ## Support
 If you enjoyed this fan game, please support the original creators and contributors:
